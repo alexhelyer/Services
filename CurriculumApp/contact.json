@@ -1,0 +1,18 @@
+[
+	{
+		"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/icons/birthday.png",
+		"contact": "27 / Dec / 1994"
+	},
+	{
+		"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/icons/email.png",
+		"contact": "alexhelyer7@gmail.com"
+	},
+	{
+		"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/icons/phone.png",
+		"contact": "55 13 03 23 20"
+	},
+	{
+		"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/icons/location.png",
+		"contact": "Iztapalapa, 09830, Ciudad de México"
+	}
+]
