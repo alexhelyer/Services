@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Jobs",
+		"experience": [
+			{
+				"mame": "NA-AT Technologies",
+				"position-held": "iOS Developer",
+				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/na-at.png",
+				"duration": "Mar. 2018 - Currenly",
+				"place": "Mexico City, Mexico",
+				"description": "Development of bank applications using Swift, and VIPER architecture, use of push notifications, Core Data. Version control using GIT, use of dependencies with CocoaPods. Use of AVFoundation framework for recognize gestures and reading of QR code. TouchID, FaceID, framework for encrypt data. Use of SwiftLint and Tailor for write to organized and clean code."
+			},
+			{
+				"mame": "Freelancer",
+				"position-held": "iOS Developer",
+				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/mathe.png",
+				"duration": "May. 2017 - May. 2018",
+				"place": "Mexico City, Mexico",
+				"description": "Design and development of an application to teach mathematics to high school students, version control using GIT, REST services, MVC architecture, Crashlytics."
+			},
+			{
+				"mame": "Mecanismo Creativo S.A de C.V",
+				"position-held": "Web Developer",
+				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/mecanismo.png",
+				"duration": "Mar. 2019 - Feb. 2018",
+				"place": "Mexico City, Mexico",
+				"description": "Design and development of web pages, support of sites, responsive web pages, web sales systems, online store, creation and maintenance of database, creation of resources for web pages, and documentation."
+			}
+		]
+	},
+	{
+		"title": "Education",
+		"experience": [
+			{
+				"mame": "UPIITA - IPN",
+				"position-held": "Telematics Engineering",
+				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/upiita.png",
+				"duration": "Aug. 2012 - Dec. 2017",
+				"place": "Mexico City, Mexico",
+				"description": "Graduated from the career of Telematics with a focus on computer science and software development."
+			}
+		]
+	}
+]
