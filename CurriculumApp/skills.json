@@ -1,0 +1,19 @@
+{
+	"knowledge": [
+		"macOS, Windows, Linux", 
+		"Xcode, Android Studio", 
+		"Swift, Java, C++", 
+		"HTML5, JavaScript, PHP", 
+		"Illustrator"
+	],
+	"languages": [
+		{
+			"language": "Spanish",
+			"level": "Mother Tongue"
+		},
+				{
+			"language": "English",
+			"level": "Intermediate"
+		}
+	]
+}
