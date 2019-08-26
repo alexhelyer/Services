@@ -3,7 +3,7 @@
 		"title": "Trabajos",
 		"experience": [
 			{
-				"mame": "NA-AT Technologies",
+				"name": "NA-AT Technologies",
 				"position-held": "Desarrollador iOS",
 				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/na-at.png",
 				"duration": "Mar. 2018 - Actualmente",
@@ -11,7 +11,7 @@
 				"description": "Desarrollo de aplicaciones bancarias usando Swift, y arquitectura VIPER, uso de psuh notificaciones, Core Data. Control de versiones usando GIT, uso de dependencias utilizando CocoaPods. Uso del framework AVFoundation para reconocer gestos y leer códigos QR. TouchID, FaceID, frameworks para cifrar datos. Uso de SwiftLint y Tailor para escribir código organizado y limpio."
 			},
 			{
-				"mame": "Freelancer",
+				"name": "Freelancer",
 				"position-held": "Desarrollador iOS",
 				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/mathe.png",
 				"duration": "May. 2017 - May. 2018",
@@ -19,7 +19,7 @@
 				"description": "Diseño y desarrollo de una aplicación para enseñar matemáticas a estudiantes de secundaria, control de versiones mediante GIT, servicios REST, arquitectura MVC, Crashlytics."
 			},
 			{
-				"mame": "Mecanismo Creativo S.A de C.V",
+				"name": "Mecanismo Creativo S.A de C.V",
 				"position-held": "Desarrollador Web",
 				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/mecanismo.png",
 				"duration": "Mar. 2017 - Feb. 2018",
@@ -32,7 +32,7 @@
 		"title": "Formación",
 		"experience": [
 			{
-				"mame": "UPIITA - IPN",
+				"name": "UPIITA - IPN",
 				"position-held": "Ingeniería en Telemática",
 				"image-url": "https://raw.githubusercontent.com/alexhelyer/Services/master/CurriculumApp/assets/images/upiita.png",
 				"duration": "Ago. 2012 - Dic. 2017",
